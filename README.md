@@ -1,7 +1,7 @@
-ModiCube is a custom ClassiCube client.<br>
+Flint is a custom ClassiCube client.<br>
 This README is a modified version of [this](https://raw.githubusercontent.com/ClassiCube/ClassiCube/refs/heads/master/readme.md).
 
-# What ModiCube Changes
+# What Flint Changes
 * Adds MOTD Bypass
 * Adds Skin Changer to Launcher
 * Adds Compass in F3
